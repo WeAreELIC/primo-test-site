@@ -4240,14 +4240,11 @@ function create_fragment$6(ctx) {
 						}
 					},
 					{
-						"link": {
-							"url": "https://primo-cms.vercel.app/equip",
-							"label": "Equip"
-						}
+						"link": { "url": "/equip", "label": "Equip" }
 					},
 					{
 						"link": {
-							"url": "https://primo-cms.vercel.app/",
+							"url": "https://primo-cms.vercel.app/since1981.info",
 							"label": "Contact"
 						}
 					}
